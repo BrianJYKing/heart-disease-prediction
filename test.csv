@@ -1,0 +1,180 @@
+"id","age","sex","hospital","month","pain","heartrate","pressure","cholesterol","sugar","overweight","ecg","stress","corang","blocked"
+8,72,"male","st vincent","jan","severe",160,130,NA,"elevated","no",NA,NA,"indeterminate",NA
+18,66,"male","st vincent","feb","mild",135,151,255,"normal","yes",NA,"normal","normal",NA
+25,64,"female","monash","mar","mild",141,133,313,"normal","no","normal","reversable","normal",0
+38,45,"male","royal melbourne","nov","mild",150,118,164,NA,"no",NA,NA,"normal",NA
+39,51,"male","royal melbourne","apr","none",171,116,210,"normal","no",NA,NA,"abnormal",NA
+45,59,"male","box hill","aug","severe",136,161,235,"normal","no","hypertrophy","reversable","normal",0
+56,57,"male","monash",NA,"mild",150,172,168,"normal","no","normal","normal","normal",0
+57,43,"female","royal melbourne","mar","none",152,152,187,"normal","no",NA,NA,"normal",NA
+62,57,"male","alfred","jun","severe",127,105,0,"elevated","yes","hypertrophy","reversable","normal",NA
+66,44,"female","royal melbourne","jun","severe",122,115,221,"normal","no",NA,NA,"abnormal",NA
+74,52,"male","st vincent","feb","mild",NA,NA,341,"normal",NA,NA,NA,"normal",NA
+78,63,"male","st vincent","mar","severe",171,84,177,"normal","yes","abnormal",NA,"normal",NA
+81,42,"male","monash","nov","severe",121,144,169,"normal","yes","abnormal","fixed","normal",0
+96,71,"female","monash","aug","none",161,162,303,"normal","no","normal","normal","normal",2
+102,74,"male","alfred","dec","none",146,125,0,NA,"no","normal",NA,"abnormal",NA
+103,45,"male","royal melbourne","apr","none",151,150,288,"normal","yes","hypertrophy",NA,"normal",NA
+106,53,"male","alfred","mar","mild",106,115,0,"normal","no","hypertrophy","reversable","normal",NA
+110,54,"male","royal melbourne","jul","mild",150,124,NA,"normal","no",NA,NA,"normal",NA
+112,47,"male","royal melbourne","sep","severe",120,140,227,"normal","no",NA,NA,"normal",NA
+113,58,"male","royal melbourne","jun","mild",131,140,213,"normal","no",NA,"fixed","abnormal",NA
+114,55,"male","st vincent","nov","severe",NA,NA,0,"normal",NA,NA,NA,"indeterminate",NA
+115,65,"male","st vincent","may","severe",132,139,309,"elevated","yes","hypertrophy",NA,"normal",NA
+116,55,"male","st vincent","jun","mild",120,125,0,"normal","yes","hypertrophy","reversable","abnormal",NA
+117,54,"female","monash","jun","severe",180,115,329,"normal","yes","hypertrophy","normal","abnormal",0
+118,56,"male","st vincent","dec","none",111,178,215,"elevated","no",NA,NA,"abnormal",NA
+122,37,"male","royal melbourne","dec","severe",110,149,NA,"normal","yes","hypertrophy",NA,"normal",NA
+126,57,"male","royal melbourne","may","none",140,150,288,"normal","no",NA,NA,"normal",NA
+127,68,"female","monash","jul","mild",120,113,212,"normal","no","hypertrophy","normal","indeterminate",0
+130,56,"male","alfred","oct","severe",120,100,0,"normal","yes","abnormal","reversable","abnormal",NA
+138,61,"male","st vincent","feb","severe",192,150,288,"elevated","yes","abnormal",NA,"indeterminate",NA
+159,55,"male","monash","sep","none",193,193,284,"normal","no","normal","reversable","indeterminate",1
+160,62,"male","st vincent","jul","severe",96,121,305,"normal","yes","normal",NA,"abnormal",NA
+163,52,"male","royal melbourne","nov","mild",146,128,518,"normal","no",NA,NA,"normal",NA
+164,66,"female","alfred","dec","severe",155,88,0,NA,"no",NA,"reversable","normal",NA
+165,50,"female","royal melbourne",NA,"severe",160,150,303,"normal","yes","hypertrophy",NA,"normal",NA
+180,48,"male","royal melbourne","jan","severe",161,158,291,"normal","yes","hypertrophy",NA,"abnormal",NA
+187,54,"male","box hill","mar","severe",113,160,230,"normal","no","normal","normal","normal",1
+195,55,"male","royal melbourne",NA,"none",160,143,293,"elevated","no","hypertrophy",NA,"normal",NA
+201,58,"male","st vincent","oct","severe",112,100,198,"normal","no",NA,NA,"indeterminate",NA
+210,47,"male","box hill","dec","mild",122,139,190,"normal","no","hypertrophy","reversable","normal",3
+220,53,"female","monash","apr","mild",128,113,217,"normal","no","normal",NA,"indeterminate",0
+225,76,"male","box hill","jan","severe",125,164,304,"normal","yes","normal","normal","indeterminate",3
+226,47,"male","box hill",NA,"mild",131,180,253,"normal","no","normal","normal","normal",0
+227,63,"male","alfred","jul","severe",111,116,0,NA,"yes","abnormal",NA,"normal",NA
+230,58,"male","st vincent","sep","severe",123,98,265,"normal","yes",NA,NA,"indeterminate",NA
+231,55,"male","box hill","jul","severe",160,144,289,"normal","yes","hypertrophy","reversable","indeterminate",1
+232,67,"male","box hill","mar","severe",100,125,301,"normal","yes","hypertrophy","normal","indeterminate",2
+235,46,"male","alfred","apr","severe",160,122,0,"normal","yes","hypertrophy","reversable","normal",NA
+236,57,"male","alfred","oct","severe",110,130,0,NA,"yes","normal",NA,"abnormal",1
+247,65,"male","st vincent","mar","moderate",NA,NA,254,"normal",NA,NA,NA,"normal",NA
+251,64,"male","st vincent","aug","severe",134,100,274,"elevated","yes","abnormal",NA,"normal",NA
+260,63,"male","st vincent","oct","severe",NA,NA,0,"normal",NA,NA,NA,"normal",NA
+261,44,"male","royal melbourne","jul","severe",121,115,231,"normal","yes",NA,NA,"normal",NA
+269,67,"male","alfred","jun","moderate",145,126,0,"normal","no","hypertrophy","normal","indeterminate",NA
+286,46,"female","royal melbourne",NA,"severe",108,175,164,"normal","no","normal",NA,"normal",NA
+291,51,"female","royal melbourne","aug","mild",110,120,193,"normal","no",NA,NA,"normal",NA
+295,54,"male","alfred","may","severe",121,90,0,"normal","no","normal","reversable","abnormal",NA
+299,57,"male","monash","dec","severe",129,131,216,"normal","yes","hypertrophy","reversable","indeterminate",3
+303,61,"male","st vincent","nov","mild",120,86,220,"normal","no",NA,NA,"indeterminate",NA
+304,46,"female","monash","feb","severe",138,152,244,"normal","yes","hypertrophy","normal","indeterminate",0
+305,49,"male","monash",NA,"severe",124,166,275,"normal","no","hypertrophy","reversable","indeterminate",0
+306,57,"male","box hill","jul","severe",110,141,335,"normal","yes","hypertrophy",NA,"normal",1
+308,40,"male","royal melbourne","jun","mild",120,168,339,"normal","no",NA,NA,"normal",NA
+309,53,"male","royal melbourne","oct","severe",124,112,260,"normal","yes","hypertrophy",NA,"abnormal",NA
+311,61,"male","monash","sep","severe",125,141,259,"normal","yes","hypertrophy","reversable","indeterminate",1
+319,40,"male","royal melbourne","sep","none",120,160,200,"normal","yes","hypertrophy",NA,"normal",NA
+321,38,"male","st vincent",NA,"severe",110,106,289,"normal","yes","abnormal",NA,"normal",NA
+322,41,"male","royal melbourne","nov","severe",112,140,250,"normal","no",NA,NA,"normal",NA
+325,50,"male","monash",NA,"mild",129,163,196,"normal","no","normal","normal","normal",0
+330,58,"male","st vincent",NA,"none",128,108,0,"elevated","yes","hypertrophy",NA,"normal",NA
+339,51,"female","box hill","may","severe",130,142,306,"normal","yes","hypertrophy","reversable","normal",0
+349,51,"male","alfred","mar","severe",112,92,0,NA,"no","hypertrophy",NA,"normal",NA
+350,75,"male","st vincent","dec","severe",155,110,310,"normal","yes","abnormal",NA,"normal",NA
+356,39,"male","royal melbourne","oct","severe",110,131,273,"normal","yes",NA,NA,"normal",NA
+359,62,"female","monash","jul","severe",150,152,408,"normal","no","hypertrophy","reversable","indeterminate",3
+366,62,"male","st vincent","jun","mild",NA,NA,316,"elevated",NA,NA,NA,"abnormal",NA
+368,50,"male","st vincent","jan","severe",144,120,349,"normal","yes","normal","reversable","indeterminate",NA
+372,64,"male","st vincent","jul","severe",145,122,0,"normal","yes","hypertrophy",NA,"abnormal",NA
+382,58,"male","st vincent","jun","severe",132,69,459,"elevated","no","abnormal",NA,"normal",NA
+384,64,"female","box hill","feb","severe",180,154,326,"normal","yes","normal","normal","normal",0
+386,39,"male","st vincent","may","mild",107,80,240,"normal","yes",NA,"reversable","normal",NA
+389,63,"male","alfred","mar","severe",150,152,0,NA,"no","normal",NA,"abnormal",NA
+390,52,"female","royal melbourne","may","none",160,170,194,"normal","no",NA,NA,"normal",NA
+392,45,"male","royal melbourne",NA,"severe",131,111,225,"normal","no",NA,NA,"normal",NA
+393,59,"male","st vincent",NA,"mild",NA,NA,287,"normal",NA,NA,NA,"normal",NA
+402,59,"male","alfred","jan","severe",125,119,0,NA,"yes","normal",NA,"normal",NA
+403,33,"male","royal melbourne","aug","none",120,178,308,"normal","no",NA,NA,"indeterminate",NA
+404,47,"male","st vincent","nov","mild",NA,NA,142,"normal",NA,NA,NA,"normal",NA
+407,58,"female","monash","apr","mild",121,172,342,"normal","no","normal","normal","normal",0
+408,42,"male","st vincent","may","severe",125,165,0,"elevated","no",NA,"reversable","normal",NA
+410,50,"male","st vincent","jun","severe",NA,NA,227,"elevated",NA,NA,NA,"abnormal",NA
+420,58,"male","box hill","nov","severe",100,156,235,"normal","no","normal","reversable","normal",1
+422,55,"male","st vincent","aug","severe",160,111,218,"normal","yes","hypertrophy",NA,"normal",NA
+429,43,"male","monash","jun","mild",122,169,227,"normal","no","normal","normal","normal",0
+432,63,"male","alfred","aug","mild",162,72,0,"normal","yes","hypertrophy","normal","normal",NA
+437,61,"male","st vincent","apr","severe",160,105,231,"elevated","yes","hypertrophy",NA,"normal",NA
+444,65,"male","st vincent","jan","severe",NA,NA,306,"elevated",NA,NA,NA,"abnormal",NA
+446,63,"male","alfred","mar","severe",185,99,0,"normal","no","normal","reversable","normal",NA
+450,53,"male","alfred",NA,"severe",130,134,0,"elevated","yes","hypertrophy","reversable","indeterminate",NA
+453,49,"male","royal melbourne","feb","severe",150,142,215,"normal","yes",NA,NA,"normal",NA
+460,54,"male","royal melbourne","apr","severe",131,110,298,"normal","yes","hypertrophy",NA,"normal",NA
+461,57,"male","box hill","sep","severe",128,129,262,"normal","yes","hypertrophy","reversable","indeterminate",2
+465,69,"male","alfred","sep","severe",136,118,0,"normal","yes","normal","reversable","abnormal",NA
+473,53,"female","royal melbourne","feb","none",120,140,230,"elevated","no",NA,NA,"normal",NA
+474,52,"female","monash","jun","mild",141,142,308,"normal","no","normal","normal","indeterminate",1
+475,55,"male","royal melbourne","jul","severe",130,91,242,"normal","yes","hypertrophy",NA,"normal",NA
+504,63,"female","box hill","jun","severe",150,154,245,"normal","yes","hypertrophy","normal","normal",0
+509,41,"male","monash","sep","mild",112,179,252,"normal","no","normal",NA,"normal",0
+515,37,"female","royal melbourne","jan","mild",132,142,211,"normal","no",NA,NA,"normal",NA
+524,36,"male","monash","nov","none",123,174,195,"normal","no","normal","normal","normal",0
+526,34,"male","alfred","jan","severe",116,153,0,NA,"no","normal",NA,NA,NA
+527,43,"male","alfred","jun","severe",142,140,0,"normal","no","normal","reversable","abnormal",NA
+528,52,"male","royal melbourne","jun","severe",140,139,232,"normal","yes","hypertrophy",NA,"abnormal",NA
+539,60,"male","monash","aug","none",129,140,210,"elevated","no","normal","normal","indeterminate",0
+545,55,"male","royal melbourne","nov","severe",146,98,249,"normal","yes","hypertrophy",NA,"normal",NA
+546,60,"male","monash","sep","severe",148,161,204,"elevated","no","normal","reversable","normal",1
+550,49,"female","box hill",NA,"severe",130,163,269,"normal","no","normal","normal","normal",0
+555,56,"male","box hill","apr","severe",116,140,318,"normal","no","abnormal","fixed","abnormal",3
+556,52,"female","monash","oct","mild",109,165,267,"normal","no","normal","normal","indeterminate",0
+563,69,"male","monash","sep","moderate",161,129,234,"elevated","no","hypertrophy","normal","indeterminate",1
+567,40,"female","royal melbourne","apr","mild",110,180,182,"elevated","no",NA,NA,"abnormal",NA
+573,68,"male","box hill","apr","mild",119,151,277,"normal","no","normal","reversable","normal",1
+578,42,"male","box hill","may","severe",132,143,247,"elevated","yes","hypertrophy","reversable","indeterminate",NA
+594,53,"male","box hill","aug","severe",143,111,227,"normal","yes","normal","reversable","indeterminate",0
+596,59,"male","monash","apr","severe",125,173,302,"normal","no","normal","reversable","indeterminate",2
+602,48,"male","alfred","apr","mild",112,122,0,NA,"yes",NA,"normal","normal",NA
+605,48,"male","royal melbourne","apr","severe",122,149,278,"elevated","no","abnormal",NA,"abnormal",NA
+606,50,"female","royal melbourne","may","mild",161,156,183,"normal","no","hypertrophy",NA,"normal",NA
+607,44,"male","box hill","aug","severe",110,177,198,"normal","no","normal","normal","indeterminate",1
+612,37,"male","monash","jul","mild",130,187,251,"normal","yes","abnormal","normal","normal",0
+623,60,"male","alfred","nov","severe",125,108,0,NA,"no","normal",NA,"normal",2
+624,69,"male","st vincent","jul","severe",141,142,209,"normal","yes",NA,NA,"abnormal",NA
+626,34,"male","royal melbourne","jan","mild",122,185,299,"normal","no",NA,NA,"normal",NA
+635,59,"male","st vincent","apr","severe",125,117,NA,"normal","yes","hypertrophy",NA,"normal",NA
+641,46,"female","royal melbourne","aug","none",130,168,237,"normal","no",NA,NA,"normal",NA
+644,35,"female","box hill","feb","none",118,192,210,"normal","no","normal","normal","normal",0
+646,56,"male","royal melbourne","jun","severe",125,120,224,"normal","no","hypertrophy",NA,"normal",NA
+653,55,"male","st vincent","oct","severe",NA,NA,204,"elevated",NA,NA,NA,"abnormal",NA
+663,56,"male","royal melbourne",NA,"severe",151,136,368,"normal","yes","normal",NA,"abnormal",NA
+679,52,"male","royal melbourne","oct","none",161,130,195,"normal","no","normal",NA,"abnormal",NA
+685,36,"male","alfred","mar","mild",101,179,0,NA,"no","normal",NA,"normal",NA
+692,56,"female","royal melbourne","dec","none",130,150,394,"normal","no",NA,NA,"indeterminate",NA
+701,42,"female","box hill","feb","severe",132,136,343,"normal","yes","hypertrophy","reversable","indeterminate",0
+703,54,"male","alfred","may","mild",160,122,0,NA,"yes",NA,"reversable","indeterminate",NA
+706,70,"male","st vincent","jul","severe",170,128,193,"normal","yes","abnormal",NA,"abnormal",NA
+708,43,"male","royal melbourne","jan","none",125,144,269,"normal","no",NA,NA,"normal",NA
+709,60,"male","st vincent","feb","severe",NA,NA,292,"normal",NA,NA,NA,"abnormal",NA
+717,38,"male","royal melbourne","apr","severe",92,134,118,"normal","yes","hypertrophy",NA,"normal",NA
+725,42,"male","royal melbourne","jan","mild",160,146,147,"normal","no",NA,NA,"normal",NA
+726,53,"male","st vincent","sep","severe",124,124,246,"normal","yes","hypertrophy","reversable","normal",NA
+727,50,"female","royal melbourne","dec","none",110,160,NA,"normal","no",NA,NA,"normal",NA
+740,66,"male","box hill","jun","severe",126,163,254,"elevated","no","hypertrophy",NA,"normal",2
+744,41,"female","monash","jul","none",127,163,306,"normal","no","normal","normal","normal",0
+745,57,"male","st vincent","oct","none",128,140,166,"normal","no",NA,NA,"abnormal",NA
+746,59,"male","monash","sep","severe",131,115,131,"normal","yes","hypertrophy",NA,"normal",1
+747,44,"female","royal melbourne","nov","none",120,166,201,"normal","no",NA,NA,"normal",NA
+751,61,"male","st vincent",NA,"none",160,157,267,"elevated","no","hypertrophy",NA,"abnormal",NA
+753,46,"female","royal melbourne","jun","none",122,120,284,"normal","no",NA,NA,"normal",NA
+764,48,"male","alfred","feb","severe",145,139,0,NA,"yes","hypertrophy",NA,"normal",NA
+772,60,"male","st vincent","feb","severe",117,124,0,"normal","no","normal",NA,"normal",NA
+782,54,"male","royal melbourne","aug","severe",132,125,604,"elevated","yes","hypertrophy",NA,"normal",NA
+788,62,"female","alfred","feb","severe",120,124,0,NA,"yes","abnormal",NA,"abnormal",NA
+792,56,"male","royal melbourne","jun","none",131,100,185,"normal","no",NA,NA,"normal",NA
+796,62,"male","st vincent","may","mild",NA,NA,207,"normal",NA,NA,NA,"abnormal",NA
+807,49,"male","alfred","feb","severe",115,119,0,"normal","yes","hypertrophy","fixed","normal",NA
+816,64,"male","st vincent","aug","severe",120,106,0,"elevated","no","hypertrophy",NA,"abnormal",NA
+819,60,"male","alfred","jul","severe",135,63,0,"elevated","yes","normal","reversable","normal",NA
+832,70,"male","st vincent","jan","mild",120,102,215,"normal","yes","hypertrophy",NA,"normal",NA
+836,44,"male","box hill","may","severe",114,152,291,"normal","no","normal","normal","indeterminate",1
+839,51,"male","royal melbourne","may","none",125,145,188,"normal","no",NA,NA,"normal",NA
+851,57,"female","box hill","sep","severe",130,131,198,"elevated","no","hypertrophy","normal","normal",0
+854,46,"male","royal melbourne",NA,"severe",118,123,187,"normal","no",NA,"reversable","normal",NA
+859,41,"male","st vincent","sep","severe",150,128,171,"normal","yes","hypertrophy",NA,"normal",NA
+863,33,"male","royal melbourne","mar","none",125,154,254,"normal","no",NA,NA,"normal",NA
+868,53,"male","box hill","nov","severe",110,108,206,"normal","yes","hypertrophy","normal","indeterminate",1
+878,58,"male","box hill","may","severe",145,142,282,"normal","yes","hypertrophy","reversable","indeterminate",2
+882,62,"male","st vincent","apr","moderate",NA,NA,141,"normal",NA,NA,NA,"abnormal",NA
+889,32,"female","royal melbourne","aug","none",105,167,198,"normal","no",NA,NA,"normal",NA
+895,48,"male","royal melbourne","mar","severe",107,111,263,"elevated","no",NA,NA,"normal",NA
